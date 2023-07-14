@@ -1,0 +1,5 @@
+website/__pycache__/
+website/migrations/*
+!website/migrations/__init__.py
+Django/__pycache__/
+db.sqlite3
